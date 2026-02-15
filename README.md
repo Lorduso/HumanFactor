@@ -20,7 +20,7 @@ This project is part of my journey to becoming a stronger developer and understa
 
 🎮 The Game
 
-Soulkeeper is a judgment simulator inspired by games like Papers, Please and JudgeSim(Peace Death in the most).
+Human Factor is a judgment simulator inspired by games like Papers, Please and JudgeSim(Peace Death in the most).
 
 In this game, the player takes the role of a supernatural judge who decides the fate of souls after death.
 
