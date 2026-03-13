@@ -1,86 +1,63 @@
-👋 About Me
+Human Factor
 
-Hi, my name is Adil.
-I am a developer passionate about programming and game development.
+Human Factor is a decision-based psychological game where the player takes the role of a judge responsible for determining the fate of human souls after death.
 
-I work with:
+Every soul that appears before you comes with a generated life record. The information is incomplete, sometimes contradictory, and occasionally hides the most important truth.
 
-C++
+Your task is simple: decide where the soul belongs.
 
-C# (Unity)
+But the decision is never as simple as it seems.
 
-Python
+⸻
 
-JavaScript
+Core Gameplay
 
-I am especially interested in systems programming, game mechanics, and procedural logic.
-My goal is to become a professional developer, work in a large tech company one day, and build games that people truly enjoy.
+Each case presents a procedurally generated dossier containing key details about a person’s life:
+	•	Birth and death information
+	•	Occupation and background
+	•	Cause of death
+	•	Positive and negative actions
+	•	Hidden secrets that may change everything
 
-This project is part of my journey to becoming a stronger developer and understanding real production workflows.
+Using this information, the player must analyze the life of the person and choose one of three verdicts:
+	•	Heaven – for those whose actions outweigh their mistakes
+	•	Hell – for those whose choices caused more harm than good
+	•	Purgatory – for the uncertain cases in between
 
-🎮 The Game
+However, every biography contains conflicting information, forcing the player to carefully consider what truly defines a person.
 
-Human Factor is a judgment simulator inspired by games like Papers, Please and JudgeSim(Peace Death in the most).
+⸻
 
-In this game, the player takes the role of a supernatural judge who decides the fate of souls after death.
+Procedural Souls
 
-Each soul:
+No two cases are the same.
 
-Has a procedurally generated biography
+The game generates new characters using a procedural system that combines different:
+	•	professions
+	•	life events
+	•	moral traits
+	•	hidden secrets
 
-Contains moral choices and hidden traits
+This creates a large variety of unique life stories and moral dilemmas.
 
-Requires analysis before making a final decision
+⸻
 
-Core features:
+Moral Judgment System
 
-🎲 Randomized soul generation
+Behind every biography is an internal moral balance system that evaluates the life of the character.
 
-📖 Dynamic biographies
+The player must interpret the information and determine whether their judgment matches the true moral outcome of that life.
 
-⚖️ Moral decision system
+Sometimes the correct choice is obvious.
+Other times, the line between good and evil becomes unclear.
 
-🔁 Replayability
+⸻
 
-🎭 Animated transitions and scene control
+Atmosphere
 
-The goal of the project was to:
+Human Factor focuses on tension created through decision-making, uncertainty, and moral ambiguity.
 
-Design a reusable character generation system
+You are not fighting enemies.
+You are judging people.
 
-Implement UI state management
-
-Handle animations and transitions properly
-
-Structure Unity scripts cleanly
-
-🚀 Conclusion
-
-This project represents my minimum viable product (MVP) stage.
-It proves that I can design, structure, and complete a playable game system independently.
-
-While the game can be expanded with:
-
-Deeper morality scoring
-
-Persistent progression system
-
-Story branching
-
-Better visual polish
-
-It already demonstrates:
-
-Game logic architecture
-
-Random generation systems
-
-UI management
-
-Player interaction handling
-
-Clean code structuring
-
-This is only the beginning.
-
-More systems, better mechanics, and larger projects are coming.
+And every decision carries weight.
