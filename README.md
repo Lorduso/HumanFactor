@@ -1,7 +1,11 @@
 Human Factor
+
 CONTROLS
+
 E-Interact(Open Clipboard, Computer etc.)
+
 Left click-option
+
 Escape-Open Settings/Close(Clipboard, computer, Settings etc.)
 
 ⸻
