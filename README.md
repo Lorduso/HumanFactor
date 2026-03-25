@@ -1,4 +1,10 @@
 Human Factor
+CONTROLS
+E-Interact(Open Clipboard, Computer etc.)
+Left click-option
+Escape-Open Settings/Close(Clipboard, computer, Settings etc.)
+
+⸻
 
 Human Factor is a decision-based psychological game where the player takes the role of a judge responsible for determining the fate of human souls after death.
 
